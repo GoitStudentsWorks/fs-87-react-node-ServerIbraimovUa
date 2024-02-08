@@ -11,5 +11,5 @@ export default defineConfig({
       assets: "/src/assets",
     },
   },
-  base: "/agua_vivo_app/",
+  base: "/fs-87-react-node-ServerIbraimovUa/",
 });
