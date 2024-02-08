@@ -1,4 +1,4 @@
-import{u as s,d as i,a as l,j as e,I as n,r,F as d,M as p}from"./index-4A85RRuM.js";import{c as x,d as h,e as m}from"./TeamModal-pxZ-wREq.js";const g="/fs-87-react-node-ServerIbraimovUa/assets/welcomeMob-9xutC1rA.png",b="/fs-87-react-node-ServerIbraimovUa/assets/WelcomeTab-KNRMQHDm.png",u="/fs-87-react-node-ServerIbraimovUa/assets/WelcomeDesk-FJOaIO84.png",j=s.section`
+import{u as s,d as i,a as l,j as e,I as n,r,F as d,M as p}from"./index-FVAT2Sb_.js";import{c as x,d as h,e as m}from"./TeamModal-LavWQY4n.js";const g="/fs-87-react-node-ServerIbraimovUa/assets/welcomeMob-9xutC1rA.png",b="/fs-87-react-node-ServerIbraimovUa/assets/WelcomeTab-KNRMQHDm.png",u="/fs-87-react-node-ServerIbraimovUa/assets/WelcomeDesk-FJOaIO84.png",j=s.section`
   &.welcome-section {
     background-image: url(${g});
     background-position: center;

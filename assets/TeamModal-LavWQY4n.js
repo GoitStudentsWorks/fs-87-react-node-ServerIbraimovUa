@@ -1,4 +1,4 @@
-import{u as G,d as D,r as z,P as N,j as c,I as k}from"./index-4A85RRuM.js";const Ze="/fs-87-react-node-ServerIbraimovUa/assets/BgHomeMob-gTMr7R_3.png",Qe="/fs-87-react-node-ServerIbraimovUa/assets/BgHomeTabl-zTY3vu-k.png",Je="/fs-87-react-node-ServerIbraimovUa/assets/BgHomeDesk-KfymPvKf.png",Vi=G.section`
+import{u as G,d as D,r as z,P as N,j as c,I as k}from"./index-FVAT2Sb_.js";const Ze="/fs-87-react-node-ServerIbraimovUa/assets/BgHomeMob-gTMr7R_3.png",Qe="/fs-87-react-node-ServerIbraimovUa/assets/BgHomeTabl-zTY3vu-k.png",Je="/fs-87-react-node-ServerIbraimovUa/assets/BgHomeDesk-KfymPvKf.png",Vi=G.section`
   background-image: url("${Ze}");
 
   background-repeat: no-repeat;
