@@ -16,7 +16,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <BrowserRouter basename="/agua_vivo_app">
+    <BrowserRouter basename="/fs-87-react-node-ServerIbraimovUa">
       <Provider store={store}>
         <PersistGate persistor={persistor} loading={<div>Loading...</div>}>
           <GlobalStyle />
